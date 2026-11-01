@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "public-sector-audit-amendment-law-2021"
+   ],
+   "sha256": "6ad0e81a142ae28a0e65981a5168a0e8b003e492665704721e22b36ed0a53f0b"
+  }
+ },
+ "schema": 1
+}
