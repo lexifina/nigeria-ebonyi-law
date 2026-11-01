@@ -1,0 +1,19 @@
+{
+ "country": "NG-EB",
+ "acts": [
+  {
+   "slug": "public-sector-audit-amendment-law-2021",
+   "short": "Public Sector Audit Law (Amendment) 2021",
+   "title": "Ebonyi State Public Sector Audit Law (Amendment), 2021 (Law No. 015 of 2021)",
+   "url": "https://ebonyistate.gov.ng/storage/documents/min-2-202111121557493674audit-law-amendment-2021-signedpdf-1735738373.pdf",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 7,
+     "source_url": "https://ebonyistate.gov.ng/storage/documents/min-2-202111121557493674audit-law-amendment-2021-signedpdf-1735738373.pdf",
+     "sha256": "0f5085178c738ec00ced2656573124a45286d6833996017594198142d62f2fcc"
+    }
+   ]
+  }
+ ]
+}

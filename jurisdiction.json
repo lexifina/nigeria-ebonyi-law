@@ -1,0 +1,8 @@
+{
+  "path": "ng-eb",
+  "code": "NG-EB",
+  "name": "Ebonyi State",
+  "level": "country",
+  "repo": "https://github.com/lexifina/nigeria-ebonyi-law",
+  "build": "built: Laws of Ebonyi State as enacted, from the copies published by the Ebonyi State Government"
+}
