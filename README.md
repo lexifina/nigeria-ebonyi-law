@@ -6,13 +6,14 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 ## What this repository holds
 
-**A first build: Laws as enacted.** The Ebonyi State Government publishes a small number of Laws as PDFs. Each Law here is one commit holding its text as enacted, dated by its commencement and credited to the Law itself. Amendments made since are not yet in this record.
+**Laws as enacted and one current regulation.** The Ebonyi State Government publishes Laws and regulations as PDFs. The Public Sector Audit Law (Amendment) 2021 is its text as enacted. The Right of Way Regulations are the current text in the Government's updated PDF, dated by their stated commencement.
 
 | Folder | What |
 | --- | --- |
 | one folder per Law (e.g. `public-sector-audit-amendment-law-2021/`) | the Law as enacted: `000-title.md`, one file per section, then any schedules |
+| `right-of-way-regulations-2024/` | the updated Right of Way Regulations: one full-text file, effective 30 December 2024 |
 
-The Laws are added in parts as each is verified. Only PDFs with a text layer are used; scanned copies (pictures of pages) are left out, as are Bills and appropriation (budget) Laws.
+The texts are added in parts as each is verified. Only PDFs with a text layer are used; scanned copies (pictures of pages) are left out, as are Bills and appropriation (budget) Laws.
 
 Known gaps in the source: The Public Sector Audit Law (Amendment) 2021 amends the Ebonyi State Public Sector Audit Law 2021, which is not in this record; its assent date is blank in the copy, and it is dated by its own commencement clause.
 
@@ -22,7 +23,7 @@ Known gaps in the source: The Public Sector Audit Law (Amendment) 2021 amends th
 
 ## Dates
 
-Each Law is dated by the day it came into force under its own commencement provision, at noon in Lagos time (West Africa Time, UTC+1).
+Each text is dated by the day it came into force under its own commencement provision, at noon in Lagos time (West Africa Time, UTC+1).
 
 ## How it is built
 
@@ -40,7 +41,7 @@ The author of each commit is the Law that made the change, with an e-mail addres
 
 ## Limits
 
-Only the Laws listed above, as enacted; later amendments are not applied. The Government's PDFs are not the authoritative text; the Ebonyi State Official Gazette is.
+Only the texts listed above; later amendments to the 2021 Law are not applied. The Government's PDFs are not the authoritative text; the Ebonyi State Official Gazette is.
 
 ## Licence
 

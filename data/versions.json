@@ -14,6 +14,20 @@
      "sha256": "0f5085178c738ec00ced2656573124a45286d6833996017594198142d62f2fcc"
     }
    ]
+  },
+  {
+   "slug": "right-of-way-regulations-2024",
+   "short": "Right of Way Regulations 2024",
+   "title": "Ebonyi State Telecommunication and Related Infrastructure Right of Way Regulations",
+   "url": "https://ebonyistate.gov.ng/storage/documents/min-1-row-regulations-updated-1-1pdf-1749541863.pdf",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://ebonyistate.gov.ng/storage/documents/min-1-row-regulations-updated-1-1pdf-1749541863.pdf",
+     "sha256": "557198a36f5eb54974037c64c28015eada92b33b9370cb745b93272cf21469fe"
+    }
+   ]
   }
  ]
 }

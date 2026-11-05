@@ -5,6 +5,12 @@
     "public-sector-audit-amendment-law-2021"
    ],
    "sha256": "6ad0e81a142ae28a0e65981a5168a0e8b003e492665704721e22b36ed0a53f0b"
+  },
+  "20-row-regulations-2024.json": {
+   "acts": [
+    "right-of-way-regulations-2024"
+   ],
+   "sha256": "6b0c2df8ae7c6820e5db7ce64685978906bc015d1e879f1bd2d74fdc8ec872d9"
   }
  },
  "schema": 1
